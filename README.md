@@ -51,8 +51,8 @@ Users should be able to:
  How to use git
 ## Author
 
-- LinkedIn - [Idunnuoluwa Fayemi]([https://www.your-site.com](https://ng.linkedin.com/in/idunnuoluwa-fayemi-059a1b325))
-- Frontend Mentor - [@yourusername]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/DavidFayemi))
+- LinkedIn - [Idunnuoluwa Fayemi](https://ng.linkedin.com/in/idunnuoluwa-fayemi-059a1b325)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DavidFayemi)
 - Github - [@davidfayemi](https://github.com/DavidFayemi)
 
 
